@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T10:30:02.499Z",
+  "generated_at": "2026-09-18T10:34:55.533Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -65,6 +65,58 @@
       "last_pushed_at": "2026-09-18T10:30:01.877Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-09-10T22:09:54.503Z",
+      "last_pushed_at": "2026-09-10T22:09:54.503Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-09-10T22:21:00.727Z",
+      "last_pushed_at": "2026-09-10T22:21:00.727Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-09-10T22:33:27.904Z",
+      "last_pushed_at": "2026-09-10T22:33:27.904Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:1325": {
+      "kind": "problem",
+      "id": "1325",
+      "title": "Your First Gradient with jax.grad",
+      "difficulty": "easy",
+      "category": "Jax",
+      "url": "https://www.deep-ml.com/problems/1325",
+      "path": "problems/1325-your-first-gradient-with-jax-grad",
+      "first_solved_at": "2026-09-10T22:49:43.865Z",
+      "last_pushed_at": "2026-09-10T22:49:43.865Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
