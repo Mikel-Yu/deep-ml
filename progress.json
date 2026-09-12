@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T10:34:58.139Z",
+  "generated_at": "2026-09-18T10:35:00.726Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -260,6 +260,71 @@
       "last_pushed_at": "2026-09-11T14:21:25.103Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-09-12T15:47:29.738Z",
+      "last_pushed_at": "2026-09-12T15:47:29.738Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:165": {
+      "kind": "problem",
+      "id": "165",
+      "title": "Compute Discounted Return",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/165",
+      "path": "problems/0165-compute-discounted-return",
+      "first_solved_at": "2026-09-12T17:21:57.846Z",
+      "last_pushed_at": "2026-09-12T17:21:57.846Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:167": {
+      "kind": "problem",
+      "id": "167",
+      "title": "Calculate the Discounted Return for a Given Trajectory",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/167",
+      "path": "problems/0167-calculate-the-discounted-return-for-a-given-trajectory",
+      "first_solved_at": "2026-09-12T17:25:39.039Z",
+      "last_pushed_at": "2026-09-12T17:25:39.039Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:159": {
+      "kind": "problem",
+      "id": "159",
+      "title": "Incremental Mean for Online Reward Estimation",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/159",
+      "path": "problems/0159-incremental-mean-for-online-reward-estimation",
+      "first_solved_at": "2026-09-12T17:28:45.411Z",
+      "last_pushed_at": "2026-09-12T17:28:45.411Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:161": {
+      "kind": "problem",
+      "id": "161",
+      "title": "Exponential Weighted Average of Rewards",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/161",
+      "path": "problems/0161-exponential-weighted-average-of-rewards",
+      "first_solved_at": "2026-09-12T17:44:24.310Z",
+      "last_pushed_at": "2026-09-12T17:44:24.310Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
