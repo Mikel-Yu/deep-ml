@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T10:35:00.726Z",
+  "generated_at": "2026-09-18T10:35:02.726Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -325,6 +325,84 @@
       "last_pushed_at": "2026-09-12T17:44:24.310Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:204": {
+      "kind": "problem",
+      "id": "204",
+      "title": "Mutual Information",
+      "difficulty": "medium",
+      "category": "Information Theory",
+      "url": "https://www.deep-ml.com/problems/204",
+      "path": "problems/0204-mutual-information",
+      "first_solved_at": "2026-09-13T11:14:34.216Z",
+      "last_pushed_at": "2026-09-13T11:14:34.216Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:162": {
+      "kind": "problem",
+      "id": "162",
+      "title": "Upper Confidence Bound (UCB) Action Selection",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/162",
+      "path": "problems/0162-upper-confidence-bound-ucb-action-selection",
+      "first_solved_at": "2026-09-13T11:20:38.517Z",
+      "last_pushed_at": "2026-09-13T11:20:38.517Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:257": {
+      "kind": "problem",
+      "id": "257",
+      "title": "Compute Temporal Difference Error",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/257",
+      "path": "problems/0257-compute-temporal-difference-error",
+      "first_solved_at": "2026-09-13T11:23:51.278Z",
+      "last_pushed_at": "2026-09-13T11:23:51.278Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:13": {
+      "kind": "problem",
+      "id": "13",
+      "title": "Determinant of a 4x4 Matrix using Laplace's Expansion (hard)",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/13",
+      "path": "problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard",
+      "first_solved_at": "2026-09-13T15:44:34.063Z",
+      "last_pushed_at": "2026-09-13T15:44:34.063Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-09-13T15:54:52.469Z",
+      "last_pushed_at": "2026-09-13T15:54:52.469Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:224": {
+      "kind": "problem",
+      "id": "224",
+      "title": "Group Relative Advantage for GRPO",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/224",
+      "path": "problems/0224-group-relative-advantage-for-grpo",
+      "first_solved_at": "2026-09-13T16:04:08.984Z",
+      "last_pushed_at": "2026-09-13T16:04:08.984Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }

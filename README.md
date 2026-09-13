@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**25** solved · 25 problems · 0 labs · 0 math
+**31** solved · 31 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,7 +17,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-09-11 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate the Discounted Return for a Given Trajectory](https://www.deep-ml.com/problems/167) | easy | 2026-09-12 | [solution](problems/0167-calculate-the-discounted-return-for-a-given-trajectory) |
 | [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2026-09-12 | [solution](problems/0165-compute-discounted-return) |
+| [Compute Temporal Difference Error](https://www.deep-ml.com/problems/257) | easy | 2026-09-13 | [solution](problems/0257-compute-temporal-difference-error) |
 | [Exponential Weighted Average of Rewards](https://www.deep-ml.com/problems/161) | easy | 2026-09-12 | [solution](problems/0161-exponential-weighted-average-of-rewards) |
+| [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-09-13 | [solution](problems/0016-feature-scaling-implementation) |
+| [Group Relative Advantage for GRPO](https://www.deep-ml.com/problems/224) | easy | 2026-09-13 | [solution](problems/0224-group-relative-advantage-for-grpo) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-09-17 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Incremental Mean for Online Reward Estimation](https://www.deep-ml.com/problems/159) | easy | 2026-09-12 | [solution](problems/0159-incremental-mean-for-online-reward-estimation) |
 | [Label Encoding for Ordinal Variables](https://www.deep-ml.com/problems/356) | easy | 2026-09-11 | [solution](problems/0356-label-encoding-for-ordinal-variables) |
@@ -31,11 +34,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-09-16 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2026-09-18 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-09-10 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Upper Confidence Bound (UCB) Action Selection](https://www.deep-ml.com/problems/162) | easy | 2026-09-13 | [solution](problems/0162-upper-confidence-bound-ucb-action-selection) |
 | [Your First Gradient with jax.grad](https://www.deep-ml.com/problems/1325) | easy | 2026-09-10 | [solution](problems/1325-your-first-gradient-with-jax-grad) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-09-11 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-09-11 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-09-11 | [solution](problems/0007-matrix-transformation) |
+| [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2026-09-13 | [solution](problems/0204-mutual-information) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-09-11 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
+| [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-09-13 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-09-11 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 
 ---
