@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T10:35:02.726Z",
+  "generated_at": "2026-09-18T10:35:04.809Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -403,6 +403,32 @@
       "last_pushed_at": "2026-09-13T16:04:08.984Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:225": {
+      "kind": "problem",
+      "id": "225",
+      "title": "KL Divergence Estimator for GRPO",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/225",
+      "path": "problems/0225-kl-divergence-estimator-for-grpo",
+      "first_solved_at": "2026-09-14T08:11:28.785Z",
+      "last_pushed_at": "2026-09-14T08:11:28.785Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:226": {
+      "kind": "problem",
+      "id": "226",
+      "title": "Pass@k and Majority Voting Evaluation Metrics",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/226",
+      "path": "problems/0226-pass-k-and-majority-voting-evaluation-metrics",
+      "first_solved_at": "2026-09-14T12:48:42.462Z",
+      "last_pushed_at": "2026-09-14T12:48:42.462Z",
+      "language": "python",
+      "lines": 53
     }
   }
 }
