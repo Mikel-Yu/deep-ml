@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T10:35:04.809Z",
+  "generated_at": "2026-09-18T10:35:07.567Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -429,6 +429,19 @@
       "last_pushed_at": "2026-09-14T12:48:42.462Z",
       "language": "python",
       "lines": 53
+    },
+    "problem:887": {
+      "kind": "problem",
+      "id": "887",
+      "title": "Build an MLP with nn.Sequential",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/887",
+      "path": "problems/0887-build-an-mlp-with-nn-sequential",
+      "first_solved_at": "2026-09-15T15:59:01.952Z",
+      "last_pushed_at": "2026-09-15T15:59:01.952Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
