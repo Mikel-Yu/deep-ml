@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T08:55:52.678Z",
+  "generated_at": "2026-09-29T08:59:55.193Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -648,6 +648,19 @@
       "path": "problems/0043-implement-ridge-regression-loss-function",
       "first_solved_at": "2026-09-29T08:55:52.052Z",
       "last_pushed_at": "2026-09-29T08:55:52.052Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:1323": {
+      "kind": "problem",
+      "id": "1323",
+      "title": "ReLU with JAX Arrays",
+      "difficulty": "easy",
+      "category": "Jax",
+      "url": "https://www.deep-ml.com/problems/1323",
+      "path": "problems/1323-relu-with-jax-arrays",
+      "first_solved_at": "2026-09-29T08:59:54.545Z",
+      "last_pushed_at": "2026-09-29T08:59:54.545Z",
       "language": "python",
       "lines": 8
     }
