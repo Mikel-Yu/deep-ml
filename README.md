@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**53** solved · 53 problems · 0 labs · 0 math
+**54** solved · 54 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Temporal Difference Error](https://www.deep-ml.com/problems/257) | easy | 2026-09-13 | [solution](problems/0257-compute-temporal-difference-error) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-09-24 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-09-22 | [solution](problems/0116-derivative-of-a-polynomial) |
+| [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-09-30 | [solution](problems/0083-dot-product-calculator) |
 | [Exponential Weighted Average of Rewards](https://www.deep-ml.com/problems/161) | easy | 2026-09-12 | [solution](problems/0161-exponential-weighted-average-of-rewards) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-09-13 | [solution](problems/0016-feature-scaling-implementation) |
 | [Group Relative Advantage for GRPO](https://www.deep-ml.com/problems/224) | easy | 2026-09-13 | [solution](problems/0224-group-relative-advantage-for-grpo) |
