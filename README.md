@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**59** solved · 59 problems · 0 labs · 0 math
+**60** solved · 60 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-09-25 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-09-11 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2026-10-05 | [solution](problems/0070-calculate-image-brightness) |
+| [Calculate Jaccard Index for Binary Classification](https://www.deep-ml.com/problems/72) | easy | 2026-10-06 | [solution](problems/0072-calculate-jaccard-index-for-binary-classification) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-09-11 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate the Discounted Return for a Given Trajectory](https://www.deep-ml.com/problems/167) | easy | 2026-09-12 | [solution](problems/0167-calculate-the-discounted-return-for-a-given-trajectory) |
 | [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2026-09-12 | [solution](problems/0165-compute-discounted-return) |
