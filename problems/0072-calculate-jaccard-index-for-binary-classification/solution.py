@@ -12,5 +12,8 @@ def jaccard_index(y_true, y_pred):
 		if y_t == 1 or y_p == 1:
 			union += 1
 
+	if union == 0:
+		return 0
+		
 	result = intersect / union
 	return round(result, 3)
