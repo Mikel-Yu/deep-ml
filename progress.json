@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T09:23:51.285Z",
+  "generated_at": "2026-10-17T09:26:36.214Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -962,6 +962,19 @@
       "last_pushed_at": "2026-10-17T09:23:50.699Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:96": {
+      "kind": "problem",
+      "id": "96",
+      "title": "Implement the Hard Sigmoid Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/96",
+      "path": "problems/0096-implement-the-hard-sigmoid-activation-function",
+      "first_solved_at": "2026-10-17T09:26:35.538Z",
+      "last_pushed_at": "2026-10-17T09:26:35.538Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
