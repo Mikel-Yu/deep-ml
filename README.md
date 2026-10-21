@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**84** solved · 84 problems · 0 labs · 0 math
+**85** solved · 85 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-09-30 | [solution](problems/0083-dot-product-calculator) |
 | [Exponential Weighted Average of Rewards](https://www.deep-ml.com/problems/161) | easy | 2026-09-12 | [solution](problems/0161-exponential-weighted-average-of-rewards) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-09-13 | [solution](problems/0016-feature-scaling-implementation) |
+| [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2026-10-21 | [solution](problems/0147-gelu-activation-function) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-10-21 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
 | [Group Relative Advantage for GRPO](https://www.deep-ml.com/problems/224) | easy | 2026-09-13 | [solution](problems/0224-group-relative-advantage-for-grpo) |
 | [Immutable Arrays: Functional Updates with .at](https://www.deep-ml.com/problems/1324) | easy | 2026-10-11 | [solution](problems/1324-immutable-arrays-functional-updates-with-at) |
