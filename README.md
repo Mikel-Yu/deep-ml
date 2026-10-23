@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**88** solved · 88 problems · 0 labs · 0 math
+**89** solved · 89 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -45,6 +45,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Immutable Arrays: Functional Updates with .at](https://www.deep-ml.com/problems/1324) | easy | 2026-10-11 | [solution](problems/1324-immutable-arrays-functional-updates-with-at) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-10-04 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
 | [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2026-10-21 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
+| [Implement Hinge Loss for SVM](https://www.deep-ml.com/problems/283) | easy | 2026-10-23 | [solution](problems/0283-implement-hinge-loss-for-svm) |
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-10-07 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-09-30 | [solution](problems/0046-implement-precision-metric) |
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-10-01 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
