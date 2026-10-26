@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T10:51:52.656Z",
+  "generated_at": "2026-10-26T09:04:26.766Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -1170,6 +1170,19 @@
       "last_pushed_at": "2026-10-25T10:51:52.473Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:195": {
+      "kind": "problem",
+      "id": "195",
+      "title": "Matrix Determinant & Trace",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/195",
+      "path": "problems/0195-matrix-determinant-trace",
+      "first_solved_at": "2026-10-26T09:04:26.061Z",
+      "last_pushed_at": "2026-10-26T09:04:26.061Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
