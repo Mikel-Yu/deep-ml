@@ -12,4 +12,4 @@ def mish(x: float) -> float:
 	"""
 	# Your code here
 	softplus = math.log(1 + math.exp(x))
-	return x * math.tanh(softplus)
+	return round(x * math.tanh(softplus), 4)
