@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**109** solved · 109 problems · 0 labs · 0 math
+**110** solved · 110 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -50,6 +50,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2026-11-06 | [solution](problems/0082-grayscale-image-contrast-calculator) |
 | [Group Relative Advantage for GRPO](https://www.deep-ml.com/problems/224) | easy | 2026-09-13 | [solution](problems/0224-group-relative-advantage-for-grpo) |
 | [Immutable Arrays: Functional Updates with .at](https://www.deep-ml.com/problems/1324) | easy | 2026-10-11 | [solution](problems/1324-immutable-arrays-functional-updates-with-at) |
+| [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-11-13 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
 | [Implement Binary Cross-Entropy Loss](https://www.deep-ml.com/problems/263) | easy | 2026-11-09 | [solution](problems/0263-implement-binary-cross-entropy-loss) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-10-04 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
 | [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2026-10-21 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
