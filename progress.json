@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T11:08:25.642Z",
+  "generated_at": "2026-11-20T10:31:13.297Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -1508,6 +1508,19 @@
       "last_pushed_at": "2026-11-19T11:08:24.553Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:154": {
+      "kind": "problem",
+      "id": "154",
+      "title": "ExponentialLR Learning Rate Scheduler",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/154",
+      "path": "problems/0154-exponentiallr-learning-rate-scheduler",
+      "first_solved_at": "2026-11-20T10:31:12.126Z",
+      "last_pushed_at": "2026-11-20T10:31:12.126Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
