@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**120** solved · 120 problems · 0 labs · 0 math
+**121** solved · 121 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -119,6 +119,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-11-03 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-09-22 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-10-31 | [solution](problems/0050-implement-lasso-regression-using-ista) |
+| [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-11-24 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-11-01 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-09-30 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-09-18 | [solution](problems/0017-k-means-clustering) |
